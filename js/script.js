@@ -17,6 +17,7 @@ $(function(){
             $('.menu_wrapper').hide(100);
         }else{
             $('.back_to_top').hide(500);
+            $('.menu_wrapper').show(10);
         }
     })
   
